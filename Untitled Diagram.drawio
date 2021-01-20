@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T05:59:28.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="lfZLQbZxw0_dm7hms8NU" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T01:54:47.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="GPkoEEzrS9X6gcNefVst" version="14.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1356" dy="802" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,8 +443,139 @@
             <mxPoint x="995.5485460420034" y="318.5999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2m7f8F7U0wRiKGoIFJkY-192" value="&lt;h1&gt;Proposed changes to NLIS APIs&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="24" y="929" width="384" height="48" as="geometry" />
+        <mxCell id="2m7f8F7U0wRiKGoIFJkY-192" value="&lt;h1&gt;Proposed changes to NLIS APIs - Dec 13&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="24" y="929" width="492" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-0" value="&lt;h1&gt;Applied changes to NLIS APIs - Dec 13&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="1644" width="492" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=5;fillColor=#a20025;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264" y="1952" as="targetPoint" />
+            <mxPoint x="204" y="1952" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312" y="1922.6" as="sourcePoint" />
+            <mxPoint x="348" y="1879" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="312" y="1879" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;strokeWidth=3;fontSize=13;" edge="1" source="nOGDTFxAWLVTZoH_60qa-4" target="nOGDTFxAWLVTZoH_60qa-13" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-4" value="Request Types" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="261" y="1922.6" width="99" height="59.4" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=13;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="1831" width="154" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-6" value="Steps to Process NLIS Transactions: Animal Movements/ Kills/.." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324" y="1801" width="204" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-7" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360.00000000000006" y="1862" width="26.85" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-8" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="416.57000000000005" y="1862" width="26.85" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-9" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="467.9999999999999" y="1862" width="26.85" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;strokeWidth=3;fontSize=14;" edge="1" source="nOGDTFxAWLVTZoH_60qa-11" target="nOGDTFxAWLVTZoH_60qa-24" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="351" y="1859" width="168" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;strokeWidth=3;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522" y="2052.5" as="sourcePoint" />
+            <mxPoint x="607" y="1985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="2036" width="168" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-14" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360.00000000000006" y="2039" width="26.85" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-15" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="2038" width="26.85" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-16" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="479.9999999999999" y="2038" width="26.85" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=13;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="2087" width="154" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-18" value="Steps to Generate Reports:&amp;nbsp;&lt;br&gt;Beast Enq/Device Status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="352" y="2112" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;strokeWidth=3;fontSize=13;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="nOGDTFxAWLVTZoH_60qa-33" target="nOGDTFxAWLVTZoH_60qa-21" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="924" y="1938" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-20" value="Generate results 2" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="733" y="1905" width="132" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-21" value="Return results back to users" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="912" y="2014.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=14;direction=south;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="192" y="1752" width="768" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;strokeWidth=3;fontSize=14;" edge="1" source="nOGDTFxAWLVTZoH_60qa-24" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="696" y="1951" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-24" value="Database" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="571" y="1917" width="72" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-26" value="NLIS Monolith application - NCom" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="469.42" y="1712" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-27" value="Generate results 1" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="733" y="1853.6" width="132" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-28" value="Generate results 3" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="733" y="1960" width="132" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-29" value="Generate results 4" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="734.42" y="2014" width="132" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="705" y="1845.6" width="20" height="212.4" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="878" y="1845" width="20" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-34" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;shadow=0;strokeColor=#000000;strokeWidth=3;fontSize=13;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="952" y="2094.75" as="sourcePoint" />
+            <mxPoint x="840" y="2104.15" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="952" y="2104.15" />
+              <mxPoint x="912" y="2104.15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-35" value="" style="endArrow=classic;html=1;shadow=0;strokeColor=#ae4132;strokeWidth=3;fontSize=14;fillColor=#fad9d5;dashed=1;exitX=0.4;exitY=0.602;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nOGDTFxAWLVTZoH_60qa-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="912" y="1872" as="sourcePoint" />
+            <mxPoint x="1092" y="1872" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-36" value="Spin up more instances to resolve the contention. Redundancy comes with cost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1088" y="1866" width="268" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="nOGDTFxAWLVTZoH_60qa-37" value="&lt;h1&gt;Upcoming changes to NLIS APIs - Mar 2021&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="36" y="2280" width="516" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
