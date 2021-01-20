@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T01:54:47.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="GPkoEEzrS9X6gcNefVst" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T01:57:07.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="nsyAXDwFvZlILrCFsIYE" version="14.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1356" dy="802" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -573,9 +573,6 @@
         </mxCell>
         <mxCell id="nOGDTFxAWLVTZoH_60qa-36" value="Spin up more instances to resolve the contention. Redundancy comes with cost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1088" y="1866" width="268" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="nOGDTFxAWLVTZoH_60qa-37" value="&lt;h1&gt;Upcoming changes to NLIS APIs - Mar 2021&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="36" y="2280" width="516" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
